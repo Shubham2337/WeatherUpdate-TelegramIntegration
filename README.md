@@ -23,4 +23,4 @@ The process (fetching weather data, sending to Telegram, and saving to the datab
 3) APIs:<br>
         1) OpenWeatherMap API for fetching weather data<br>
         2) Telegram Bot API for sending messages<br>
-Other Tools: Requests library, psycopg2 for PostgreSQL integration<br>
+4) Other Tools: Requests library, psycopg2 for PostgreSQL integration<br>
