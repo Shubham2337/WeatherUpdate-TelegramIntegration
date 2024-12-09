@@ -21,6 +21,6 @@ The process (fetching weather data, sending to Telegram, and saving to the datab
 1) Backend: Python, FastAPI<br>
 2) Database: PostgreSQL<br>
 3) APIs:<br>
-        1) OpenWeatherMap API for fetching weather data<br>
-        2) Telegram Bot API for sending messages<br>
+        - OpenWeatherMap API for fetching weather data<br>
+        - Telegram Bot API for sending messages<br>
 4) Other Tools: Requests library, psycopg2 for PostgreSQL integration<br>
